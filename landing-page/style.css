@@ -65,6 +65,7 @@ header {
 .feature-container {
   display: flex;
   flex-direction: column;
+  align-items: center; 
   gap: 1.5rem;
   margin-top: 2rem;
 }
@@ -74,6 +75,7 @@ header {
   background: #f1f5f9;
   border-radius: 8px;
   transition: transform 0.3s ease;
+  width: 300px;  
 }
 
 .feature:hover {
