@@ -1,34 +1,56 @@
-# CodvedaInternshipProjects# Responsive Landing Page 🌐
+# Codveda Internship – Level 1 (Basic) 🚀
 
-A modern, fully responsive landing page built using **HTML, CSS, and JavaScript** as part of the **Codveda Technology Internship – Level 1 (Basic)** task.
+This repository contains the completed **Level 1 (Basic)** tasks of the **Codveda Technology Internship**, focused on core **front-end web development fundamentals** using **HTML, CSS, and Vanilla JavaScript**.
 
-## 📌 Project Overview
+The goal of Level 1 is to strengthen understanding of **responsive design**, **DOM manipulation**, and **client-side interactivity**.
 
-This project demonstrates the fundamentals of front-end web development by creating a responsive landing page that adapts seamlessly across **mobile, tablet, and desktop** devices. It follows best practices in **semantic HTML**, **mobile-first design**, and **modern CSS layouts**.
+---
 
-## ✨ Features
+## 📌 Tasks Overview
 
-- ✅ Responsive navigation bar
-- ✅ Hero section with call-to-action
-- ✅ Features section using Flexbox
-- ✅ Footer with copyright information
-- ✅ Mobile-first design approach
-- ✅ Smooth scrolling
-- ✅ Basic animations and hover effects
-- ✅ Clean and readable code structure
+### ✅ Task 1: Responsive Landing Page
+A modern and fully responsive landing page designed with a mobile-first approach.
+
+**Key Features:**
+- Semantic HTML for accessibility and SEO
+- Responsive layout using Flexbox
+- Navigation bar, hero section, features section, and footer
+- Smooth scrolling
+- Scroll-based animations
+- Optimized for mobile, tablet, and desktop
+
+---
+
+### ✅ Task 2: Interactive Form Validation
+An interactive form with real-time client-side validation.
+
+**Key Features:**
+- Input fields: Name, Email, Phone Number, Password
+- Required field validation
+- Email format validation
+- Phone number validation
+- Password strength validation
+- Dynamic error messages (no page reload)
+- Focus and blur event handling
+- Success message on valid submission
+
+
+---
+
+### ✅ Task 3: Basic DOM Manipulation (Counter App)
+A simple counter application demonstrating DOM manipulation using JavaScript.
+
+**Key Features:**
+- Increment, decrement, and reset buttons
+- Dynamic DOM updates
+- Event listeners for user interaction
+- Counter value never goes below zero
+- Minimalistic and clean design
+
+---
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Semantic structure for accessibility & SEO  
-- **CSS3** – Flexbox, media queries, animations  
-- **JavaScript (Vanilla)** – Basic interactivity and scroll effects  
-
-## 📱 Responsiveness
-
-The layout is optimized for:
-- 📱 Mobile devices
-- 💻 Tablets
-- 🖥️ Desktop screens
-
-Media queries are used to adjust layouts at different screen widths.
-
+- **HTML5** – Semantic structure and accessibility  
+- **CSS3** – Flexbox, animations, responsive design  
+- **JavaScript (Vanilla)** – DOM manipulation and event handling  
