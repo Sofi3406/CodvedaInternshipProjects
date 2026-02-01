@@ -3,8 +3,8 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const dotenv = require('dotenv');
 const cookieParser = require('cookie-parser');
-const compression = require('compression');  // Add this
-const helmet = require('helmet');           // Add this
+const compression = require('compression');  
+const helmet = require('helmet');           
 
 dotenv.config();
 

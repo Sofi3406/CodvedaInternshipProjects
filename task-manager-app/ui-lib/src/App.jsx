@@ -1,6 +1,6 @@
 import { lazy, Suspense, useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { Toaster } from 'sonner';  // Toast notifications
+import { Toaster } from 'sonner';  
 
 // Lazy load components (reduces initial bundle by 60%)
 const Counter = lazy(() => import('./components/Counter'));
