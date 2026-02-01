@@ -17,7 +17,10 @@
     "axios": "^1.13.3",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "react-router-dom": "^7.13.0"
+    "react-router-dom": "^7.13.0",
+    "sonner": "^2.0.7",
+    "vite-plugin-imagemin": "^0.6.1",
+    "vite-plugin-pwa": "^1.2.0"
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^5.0.0",
